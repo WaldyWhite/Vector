@@ -16,9 +16,8 @@ public class Vector {
     // method that calculates the scalar product
     public double scalarProduct(Vector vector) {
         double result = x * vector.x + y * vector.y + z * vector.z;
-        return  result;
+        return result;
 
     }
-    public double
 
 }
